@@ -6,3 +6,5 @@ Created on Mon May 16 12:05:47 2022
 """
 
 print('genetic_algorithm')
+
+import numpy as np
